@@ -1,4 +1,4 @@
-# AGNT — agent de sécurité autonome (dépôt privé, travail en cours)
+# AGNT — agent de sécurité autonome 
 
 Moteur : mission en langage naturel + cible → capacités → sélection dans un pool
 d'outils open source qualifiés → exécution sandboxée (bwrap, OPA fail-closed) →
